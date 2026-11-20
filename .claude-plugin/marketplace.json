@@ -1,0 +1,14 @@
+{
+  "name": "apexmention-skills",
+  "description": "Five skills for getting a business named in AI answers: an AI visibility baseline, best-of list outreach, a ChatGPT business profile, Reddit and Quora answers that disclose who wrote them, and site health fixes.",
+  "owner": {
+    "name": "ApexMention"
+  },
+  "plugins": [
+    {
+      "name": "apexmention",
+      "source": "./plugins/apexmention",
+      "description": "Five skills for getting a business named in AI answers: an AI visibility baseline, best-of list outreach, a ChatGPT business profile, Reddit and Quora answers that disclose who wrote them, and site health fixes."
+    }
+  ]
+}

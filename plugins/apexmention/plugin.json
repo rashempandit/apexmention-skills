@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "apexmention",
+  "version": "1.0.20261120",
+  "description": "Five skills for getting a business named in AI answers: an AI visibility baseline, best-of list outreach, a ChatGPT business profile, Reddit and Quora answers that disclose who wrote them, and site health fixes.",
+  "author": {
+    "name": "ApexMention",
+    "url": "https://apexmention.com"
+  },
+  "homepage": "https://apexmention.com/skills",
+  "repository": "https://github.com/rashempandit/apexmention-skills",
+  "license": "MIT",
+  "keywords": [
+    "ai-visibility",
+    "geo",
+    "seo",
+    "chatgpt",
+    "outreach",
+    "reddit",
+    "technical-seo"
+  ]
+}
